@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Regulation Standards Viewer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Regulation Standards Viewer</h1>
+    <nav>
+      <button onclick="scrollToSection('Service Related')">Service Related</button>
+      <button onclick="scrollToSection('Administration')">Administration</button>
+      <button onclick="scrollToSection('Facilities')">Facilities</button>
+    </nav>
+    <input id="search" type="text" placeholder="Search..." oninput="performSearch()" />
+    <div id="search-results"></div>
+  </header>
+  <main id="content"></main>
+  <script src="viewer.js"></script>
+</body>
+</html>

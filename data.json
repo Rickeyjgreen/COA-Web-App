@@ -1,0 +1,888 @@
+{
+  "Service Related": [
+    {
+      "element": "Intake",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "a. Name;\nb. Social Security number;\nc. Date of intake;\nd. Home (legal) address;\ne. Health insurance or Medicaid information;\nf. Referral source and address of referral source;\ng. Primary care physician and address;\nh. The reason the individual is seeking help including the presenting problem and diagnosis;\ni. Any physical health diagnosis, if a physical health diagnosis exists for the individual, and information regarding:\n(i) Where the individual is receiving treatment for the physical health diagnosis; and\n(ii) The physical health provider; and\nj. The name of the informant and any other information deemed necessary by the behavioral health services organization to comply with the requirements of:",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Intake",
+      "loc": "Resi. Trans",
+      "BHSO": "",
+      "AODE": "1. At intake, client identifying and demographic information, emergency contact person, and presenting problem shall be obtained from the client.",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Intake",
+      "loc": "Resi",
+      "BHSO": "",
+      "AODE": "At intake, client identifying and demographic information, emergency contact person, and presenting problem shall be obtained from the client.",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Intake",
+      "loc": "OP",
+      "BHSO": "",
+      "AODE": "At intake, client identifying and demographic information, emergency contact person, and presenting problem shall be obtained from a client.",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Plan of Care (POC)",
+      "loc": "All",
+      "BHSO": "1. Each client receiving direct treatment from a behavioral health services organization shall have an individual plan of care signed by a behavioral health professional.\n2. A plan of care shall:\n(a) Describe the services to be provided to the client, including the frequency of services; (b) Contain measurable goals for the client to achieve, including the expected date of achievement for each goal; (c) Describe the client\u2019s functional abilities and limitations, or diagnosis listed in the current edition of the American Psychiatric Association Diagnostic and Statistical Manual of Mental Disorders; (d) Specify each staff member assigned to work with the client; (e) Identify methods of involving the client\u2019s family or significant others if indicated; (f) Specify criteria to be met for termination of treatment; (g) Include any referrals necessary for services not provided directly by the behavioral health services organization; and (h) The date scheduled for review of the plan.\n3. The client shall participate to the maximum extent feasible in the development of his or her plan of care, and the participation shall be documented in the client's record.\n4. (a) The initial plan of care shall be developed through multidisciplinary team conferences as clinically indicated and at least thirty (30) days following the first ten days of treatment. (c) The plan of care and each review and update shall be signed by the participants in the multidisciplinary team conference that developed it.\n5.  A medical service, including a change of medication, a diet restriction, or a restriction on physical activity shall be ordered by a physician or other ordering practitioner acting within the limits of his or her statutory scope of practice.",
+      "AODE": "",
+      "Medicaid": "Any change to a recipient\u2019s plan of care shall be documented, signed, and dated by the rendering practitioner and by the recipient or recipient\u2019s representative.",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Plan of Care (POC)",
+      "loc": "Resi. Trans",
+      "BHSO": "",
+      "AODE": "A written individualized treatment plan based on the assessment shall be developed for each client with the client\u2019s participation within seven (7) calendar days of admission and include:\n1. An evaluation of the client\u2019s alcohol and other drug abuse or dependency;\n2. The client\u2019s problem;\n3. Goals, measurable objectives and criteria for discharge;\n4. Duration, frequency and type of service to be provided;\n5. Referrals;\n6. Staff person primarily responsible for developing the treatment plan; and\n7. The client\u2019s signature.\n\nAlcohol and other drug abuse counseling, including a focus on relapse prevention, shall be provided to each client. If provided in a group there shall be a maximum of fifteen (15) clients per clinician.",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Plan of Care (POC)",
+      "loc": "Resi",
+      "BHSO": "",
+      "AODE": "1. A written individualized treatment plan based on the assessment shall be developed for each client with the client\u2019s participation within six (6) calendar days of admission and include:\n1. An evaluation of the client's alcohol and other drug abuse or dependency;\n2. The client's problem;\n3. Goals, measurable objectives and criteria for discharge;\n4. Duration, frequency and type of service to be provided;\n5. Referrals;\n6. Staff person primarily responsible for developing the treatment plan; and\n7. The client's signature.\n2. Alcohol and other drug abuse counseling, including a focus on relapse prevention, shall be provided to each client. If provided in a group, there shall be a maximum of fifteen (15) clients per clinician.\n3.  Education shall be provided to each client on the effects of alcohol and other drug abuse, the disease and recovery from alcoholism and other drug dependency, consistent with the client\u2019s treatment plan.\n4. Orientation to self-help groups specific to addiction recovery shall be provided to each client.\n5.  Organized recreational activities shall be: (a)  Provided to each client under the direction of staff; and (b)  Part of the client\u2019s schedule.",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Plan of Care (POC)",
+      "loc": "IOP",
+      "BHSO": "",
+      "AODE": "1.  A written individualized treatment plan based on the assessment shall be developed for each client with the client\u2019s participation before the client\u2019s fourth session and include: (a) An evaluation of the client's alcohol and other drug abuse or dependency; (b) The client's problem; (c) Goals, measurable objectives and criteria for discharge; (d) Duration, frequency and type of service to be provided; (e) Referrals; (f) Staff person primarily responsible for developing the treatment plan; and (g) The client's signature.\n2. Information or education about alcohol and other drug dependency and recovery shall be made available to a client\u2019s family or significant other. If a service is requested, it shall be provided either directly or through referral to a qualified outside provider.",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Plan of Care (POC)",
+      "loc": "OP",
+      "BHSO": "",
+      "AODE": "A written individualized treatment plan based on the assessment shall be developed for each client with the client\u2019s participation before the fourth client session and include: (a) An evaluation of the client's alcohol and other drug abuse or dependency;\n(b) The client's problem; (c) Goals, measurable objectives and criteria for discharge;\n(d) Duration, frequency and type of service to be provided; (e) Referrals; (f) Staff person primarily responsible for developing the treatment plan; and (g) The client's signature.\n2.  Alcohol and other drug abuse counseling, including a focus on relapse prevention, shall be provided to each client. If provided in a group there shall be a maximum of fifteen (15) clients per clinician.\n3.  Education shall be provided to each client on the effects of alcohol and other drug abuse, the disease and recovery from alcohol and other drug dependency, consistent with the client\u2019s treatment plan.\n4.  A referral to self-help groups specific to addiction recovery shall be provided to each client.",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Plan of Care Review",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Plan of Care Review",
+      "loc": "Resi. & IOP",
+      "BHSO": "4(b)1. The plan of care for individuals receiving residential services for substance use disorder or intensive outpatient program services shall be reviewed every thirty (30) days thereafter and updated every sixty (60) days or earlier if clinically indicated",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Plan of Care Review",
+      "loc": "Resi. Trans",
+      "BHSO": "",
+      "AODE": "A treatment plan and a client\u2019s progress shall be reviewed by a clinical staff person and the client monthly and be documented in the client\u2019s record.",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Plan of Care Review",
+      "loc": "Resi",
+      "BHSO": "",
+      "AODE": "A treatment plan and a client\u2019s progress shall be reviewed by a clinical staff person and the client every two (2) weeks and be documented in the client\u2019s record.",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Plan of Care Review",
+      "loc": "IOP",
+      "BHSO": "",
+      "AODE": "A treatment plan and a client\u2019s progress shall be reviewed by a clinical staff person and the client monthly and be documented in the client\u2019s record.",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Plan of Care Review",
+      "loc": "OP",
+      "BHSO": "4(b)2. The plan of care for individuals receiving outpatient services, as described in Section 6(2)(a) through (g) and (i) through (s) of this administrative regulation, shall be reviewed and updated every six (6) months thereafter or earlier if clinically indicated.",
+      "AODE": "A treatment plan and a client\u2019s progress shall be reviewed by a clinical staff person and the client every six (6) months and be documented in the client\u2019s record.",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Reimbursable Services",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "For the department to reimburse for a ser-vice covered under this administrative regulation, the service shall be:\n(a) Medically necessary; and\n(b) Provided:\n1. To a recipient; and\n2. By a behavioral health services organization that meets the provider participation re-quirements established in Section 2 of this administrative regulation.\n(2)(a) Direct contact between a practitioner and a recipient shall be required for each service except for collateral outpatient therapy for a child under the age of twenty-one (21) years if the collateral outpatient therapy is in the child\u2019s plan of care.\n(b) A service that does not meet the requirement in paragraph (a) of this subsection shall not be covered.\n(3) A billable unit of service shall be actual time spent delivering a service in a face-to-face encounter.\n(4) A service shall be:\n(a) Stated in the recipient\u2019s plan of care; and\n(b) Provided in accordance with the recipient\u2019s plan of care.\n(5)(a) A behavioral health services organization shall establish a plan of care for each recip-ient receiving services from the behavioral health services organization.\n(b) A plan of care shall meet the plan of care requirements established in 902 KAR 20:430.",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Non-covered Services",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "Except as estab-lished in paragraph (b) of this subsection, unless a diagnosis is made and documented in the recipient\u2019s medical record within three (3) visits, the service shall not be covered.\n(b) The requirement established in paragraph (a) of this subsection shall not apply to:\n1. Mobile crisis services;\n2. Crisis intervention;\n3. A screening; or\n4. An assessment.\n(2) For a recipient who is receiving residential services for substance use disorders, the fol-lowing shall not be billed or reimbursed for the same date of service for the recipient:\n(a) A screening;\n(b) An assessment;\n(c) Service planning;\n(d) A psychiatric service;\n(e) Individual outpatient therapy;\n(f) Group outpatient therapy;\n(g) Family outpatient therapy; or\n(h) Peer support services.\n(3) For a recipient who is receiving assertive community treatment, the following shall not be billed or reimbursed for the same date of service for the recipient:\n(a) An assessment;\n(b) Case management;\n(c) Individual outpatient therapy;\n(d) Group outpatient therapy;\n(e) Peer support services; or\n(f) Mobile crisis services.\n(4) The department shall not reimburse for both a screening and an SBIRT provided to a re-cipient on the same date of service.\nLegislative Research Commission PDF Version Page: 14\n(5) The following services or activities shall not be covered under this administrative regula-tion:\n(a) A service provided to:\n1. A resident of:\na. A nursing facility; or\nb. An intermediate care facility for individuals with an intellectual disability;\n2. An inmate of a federal, local, or state:\na. Jail;\nb. Detention center; or\nc. Prison; or\n3. An individual with an intellectual disability without documentation of an additional psychi-atric diagnosis;\n(b) Psychiatric or psychological testing for another agency, including a court or school, that does not result in the individual receiving psychiatric intervention or behavioral health therapy from the behavioral health services organization;\n(c) A consultation or educational service provided to a recipient or to others;\n(d) A telephone call, an email, a text message, or other electronic contact that does not meet the requirements stated in the definition of \"face-to-face\" established in 907 KAR 15:005, Section 1(14);\n(e) Travel time;\n(f) A field trip;\n(g) A recreational activity;\n(h) A social activity; or\n(i) A physical exercise activity group.\n(6)(a) A consultation by one (1) provider or professional with another shall not be covered under this administrative regulation except as established in Section 3(3)(l)1 of this administra-tive regulation.\n(b) A third party contract shall not be covered under this administrative regulation.\n(7) A billing supervisor arrangement between a billing supervisor and a behavioral health practitioner under supervision shall not violate the supervision rules or policies of the respec-tive professional licensure boards governing the billing supervisor and the behavioral health practitioner under supervision.\nNo Duplication of Service. (1) The department shall not reimburse for a service provided to a recipient by more than one (1) provider, of any program in which the service is covered, during the same time period.\n(2) For example, if a recipient is receiving a behavioral health service from an independent behavioral health provider, the department shall not reimburse for the same service provided to the same recipient during the same time period by a behavioral health services organization.",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Aftercare",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Aftercare",
+      "loc": "Resi. Trans",
+      "BHSO": "",
+      "AODE": "A written aftercare plan shall:\n1. Be developed for each client with the client\u2019s participation;\n2. Be based on the client\u2019s needs at discharge; and\n3. Include activities and referrals supporting recovery from alcohol and other drug abuse.",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Aftercare",
+      "loc": "Resi",
+      "BHSO": "",
+      "AODE": "A written aftercare plan shall:\n1. Be developed for each client with the client\u2019s participation;\n2. Be based on the client\u2019s needs at discharge; and\n3. Include activities and referrals supporting recovery from alcohol and other drug abuse.",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Aftercare",
+      "loc": "OP",
+      "BHSO": "",
+      "AODE": "A written aftercare plan shall:\n(a) Be developed for each client with the client\u2019s participation;\n(b) Be based on a client\u2019s needs at discharge; and\n(c) Include activities and referrals supporting recovery from alcohol and other drug abuse",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Progress Notes",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "A behavioral health services organization\u2019s notes regarding a recipient shall:\n1. Be made within forty-eight (48) hours of each service visit; and\n2. Describe the:\na. Recipient\u2019s symptoms or behavior, reaction to treatment, and attitude;\nb. Therapist\u2019s intervention;\nc. Changes in the plan of care if changes are made; and\nLegislative Research Commission PDF Version Page: 16\nd. Need for continued treatment if continued treatment is needed.\n(b)1. Any edit to notes shall:\na. Clearly display the changes; and\nb. Be initialed and dated by the person who edited the notes.\n2. Notes shall not be erased or illegibly marked out.\n(c)1. Notes recorded by a behavioral health practitioner working under supervision shall be co-signed and dated by the supervising professional within thirty (30) days.\n2. If services are provided by a behavioral health practitioner working under supervision, there shall be a monthly supervisory note recorded by the supervising professional reflecting consultations with the behavioral health practitioner working under supervision concerning the:\na. Case; and\nb. Supervising professional\u2019s evaluation of the services being provided to the recipient.\nNotes regarding services to a recipient shall:\n1. Be organized in chronological order;\n2. Be dated;\n3. Be titled to indicate the service rendered;\n4. State a starting and ending time for the service; and\n5. Be recorded and signed by the rendering practitioner and include the professional title (for example, licensed clinical social worker) of the provider.\n(b) Initials, typed signatures, or stamped signatures shall not be accepted.\n(c) Telephone contacts, family collateral contacts not covered under this administrative regulation, or other non-reimbursable contacts shall:\n1. Be recorded in the notes; and\n2. Not be reimbursable.\nIf an individual\u2019s case is reopened within ninety (90) days of terminating services for the same or related issue, a reference to the prior case history with a note regarding the interval period shall be acceptable",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Progress Notes",
+      "loc": "Resi. Trans",
+      "BHSO": "",
+      "AODE": "A progress note which includes the service provided, an observation of a client\u2019s behavior and response to the service, and a client\u2019s progress toward meeting the goals and objectives of the treatment plan shall be recorded after an individual counseling session, and weekly in a sum-mary note if a client receives multiple services.\nThere shall be documentation in a client\u2019s record that the client is:\n1. Employed;\n2. Pursuing employment;\n3. Participating in vocational education, training or rehabilitation; or\n4. Receiving a disability benefit.",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Progress Notes",
+      "loc": "Resi",
+      "BHSO": "",
+      "AODE": "A progress note which includes the service provided, an observation of a client\u2019s behavior and response to the service and a client\u2019s progress toward meeting the goals and objectives of the treatment plan shall be recorded after an individual counseling session, and weekly in a summary note if a client receives multiple services",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Progress Notes",
+      "loc": "IOP",
+      "BHSO": "",
+      "AODE": "A progress note which includes the service provided, the length of the session, an observa-tion of the client\u2019s behavior and response to the service, and the client\u2019s progress toward meeting the goals and objectives of the client\u2019s treatment plan shall be recorded after an individual coun-seling session, and weekly in a summary note if the client receives multiple services.",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Progress Notes",
+      "loc": "OP",
+      "BHSO": "",
+      "AODE": "A progress note shall be recorded following each client contact. If the contact is the delivery of a professional service, an observation of the client\u2019s behavior and response to the service and the client\u2019s progress toward meeting the goals and objectives of the treatment plan shall be rec-orded.",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Discharge Summary",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "A termination summary shall:\n1. Be required, upon termination of services, for each recipient who received at least three (3) service visits; and\n2. Contain a summary of the significant findings and events during the course of treatment including the:\na. Final assessment regarding the progress of the individual toward reaching goals and ob-jectives established in the individual\u2019s plan of care;\nb. Final diagnosis of clinical impression; and\nc. Individual\u2019s condition upon termination and disposition.\n(b) A health record relating to an individual who terminated from receiving services shall be fully completed within ten (10) days following termination.",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Discharge Summary",
+      "loc": "Resi. Trans",
+      "BHSO": "",
+      "AODE": "A discharge summary shall be completed within thirty (30) calendar days of discharge and include:\n1. The date of admission and discharge;\n2. Presenting problem;\n3. An evaluation of the client\u2019s alcohol and other drug abuse or dependency;\n4. Summary of the client\u2019s progress in relation to the treatment plan; and\n5. Referrals made to another organization or provider.",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Discharge Summary",
+      "loc": "Resi",
+      "BHSO": "",
+      "AODE": "A discharge summary shall be completed within thirty (30) calendar days of discharge and include the date of admission and discharge, presenting problem, an evaluation of the client's al-cohol and other drug abuse or dependency, summary of treatment and response to treatment and referrals made to another organization or provider.",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Discharge Summary",
+      "loc": "OP",
+      "BHSO": "",
+      "AODE": "A discharge summary shall be completed within thirty  calendar days of discharge and include: (a) The date of admission and discharge; (b) Presenting problem; (c) An evaluation of the client's alcohol and other drug abuse or dependency; (d) Summary of treatment and response to treatment; and (e) Referrals made to another organization or provider.",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Client Records",
+      "loc": "All",
+      "BHSO": "1. A client record shall be maintained for each individual receiving services.\n2. Each entry shall be current, dated, signed, and indexed according to the service re-ceived.\n3. Each client record shall contain:\n(a) An identification sheet, including the client\u2019s name, address, age, gender, marital status, expected source of payment, and referral source; (b) Information on the purpose for seeking a service; (c) If applicable, consent of appropriate family members or guardians for admission, evaluation, and treatment; (d) Screening information pertaining to the mental health or substance use disorder; (e) If applicable, a psychosocial history; (f) If applicable, staff notes on services provided; (g) If applicable, the client\u2019s plan of care; (h) If applicable, disposition; (i) If applicable, assigned status;\n(j) If applicable, assigned therapists; and (k) If applicable, a termination study recapitulating findings and events during treatment, clinical impressions, and condition on termination.\n4. Ownership:\n(a) Client records shall be the property of the organization. (b) The original client record shall not be removed from the organization except by court or-der or subpoena.\n(c) Copies of a client record or portions of the record may be used and disclosed. Use and disclosure shall be as established by subsection (6) of this section.\n5. Retention of records. After a client's death or discharge, the completed client record shall be placed in an inactive file and: (a) Retained for six (6) years; or\n(b) If a minor, three (3) years after the client reaches the age of majority under state law, whichever is the longest.\n6. Confidentiality and Security: Use and Disclosure.\n(a) The organization shall maintain the confidentiality and security of client records in compliance with the Health Insurance Portability and Accountability Act of 1996 (HIPAA), (b) The organization may use and disclose client records. Use and disclosure shall be as established or required by:\n1. HIPAA, 42 U.S.C. 1320d-2 to 1320d-8, and 45 C.F.R. Parts 160 and 164; or\n2. 42 U.S.C. 290 ee-3, and the Confidentiality of Alcohol and Drug Abuse Patient Records, 42 C.F.R. Part 2. (c) A behavioral health services organization may establish higher levels of confidentiality and security than required by HIPAA, 42 U.S.C. 1320d-2 to 1320d-8, and 45 C.F.R. Parts 160 and 164, or 42 U.S.C. 290 ee-3, and the Confidentiality of Alcohol and Drug Abuse Patient Records, 42 C.F.R. Part 2.",
+      "AODE": "",
+      "Medicaid": "A behavioral health services organization shall maintain a current health record for each recipient. A health record shall document each service provided to the recipient including the date of the service and the signature of the individual who provided the service.The individual who provided the service shall date and sign the health record on the date that the individual provided the service except as established in subsection (5)(a) of this section. A health record shall include:\n1. An identification and intake record including:\n2. Documentation of the: (a) Screening; (b) Assessment if an assessment was performed; and (c) Disposition if a disposition was performed;\n3. A complete history including mental status and previous treatment;\n4. An identification sheet;\n5. A consent for treatment sheet that is accurately signed and dated; and\n6. The individual\u2019s stated purpose for seeking services; and\n7. A health record shall be: (a) Maintained in an organized central file; (b)Furnished to the: 1. Cabinet for Health and Family Services upon request; or 2. Managed care organization in which the recipient is enrolled upon request if the recipient is enrolled with a managed care organization; (c) Made available for inspection and copying by: 1. Cabinet for Health and Family Services\u2019 personnel; or\n2. Personnel of the managed care organization in which the recipient is enrolled if the recip-ient is enrolled with a managed care organization; (d) Readily accessible; and\n(e) Adequate for the purpose of establishing the current treatment modality and progress of the recipient if the recipient received services beyond a screening.\nExcept as established in paragraph (b) or (c) of this subsection, a behavioral health services organization shall maintain a case record regarding a recipient for at least six (6) years from the date of the service or until any audit dispute or issue is resolved beyond six (6) years.\n(b) After a recipient\u2019s death or discharge from services, a provider shall maintain the recipi-ent\u2019s record for the longest of the following periods:\n1. Six (6) years unless the recipient is a minor; or\n2. If the recipient is a minor, three (3) years after the recipient reaches the age of majority under state law.",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Client Rights",
+      "loc": "All",
+      "BHSO": "1. A behavioral health services organization shall have written policies and procedures to ensure that the rights of a client are protected while receiving one  or more services.\n2. A behavioral health services organization shall have written policies and procedures governing client grievances pursuant to Section 4(14) of this administrative regulation.\n3. A client shall not be unlawfully discriminated against in determining eligibility for a service.\n4.  During a behavioral health services organization\u2019s intake procedures, a client shall sign a statement which specifies that the client has the right to: (a) Give informed consent to receive a service.(b) Have input into his or her plan of care and be informed of the plan\u2019s content;(c) Receive individualized treatment; (d) File a grievance, recommendation or opinion regarding the services the client receives; (e) Give informed written consent regarding participation in a research study with the excep-tion of a child whose parent or guardian shall give informed written consent; (f) Confidentiality according to Section 7(6) of this administrative regulation; (g) Request a written statement of the charge for a service and be informed of the policy for the assessment and payment of fees; (h) Be informed of the rules of client conduct, including the consequences for the use of alcohol and other drugs or other infractions that may result in disciplinary action or discharge; (i) Be treated with consideration, respect, and personal dignity; (j) Review his or her client record in accordance with the organization\u2019s policy; and (k) Receive one (1) free copy of his or her client record.\n5. The statement of client rights as described in subsection (4) of this section shall be:\n(a) Provided to the client; (b) If the client is a minor or incapacitated, provided to the client\u2019s parent, guardian, or other legal representative in addition to the client; and\n(c) Read to the client or client\u2019s parent, guardian, or other legal representative if requested or if either cannot read.\n6. A program providing twenty-four (24) hour care shall also specify on the client rights statement that a client has the right to: (a) Vote in a political election; and\n(b) Reasonable accommodations to afford privacy in bathing and toileting.\n7. If a client is restricted from exercising a client right because it is contraindicated by the client's physical or mental condition, there shall be documentation in the client record of the reason for the restriction and of the explanation given to the client.",
+      "AODE": "1. An AODE shall have written policies and procedures to ensure that\nLegislative Research Commission PDF Version Page: 10\nthe rights of a client are protected while participating in a treatment program.\n2. An AODE shall have a policy requiring that a notice of client rights is conspicuously posted in a public area of each facility and shall include the address and telephone number of the AODE's and the cabinet's ombudsman. If there is only one (1) individual working in the AODE, a notice of client rights shall include the address and telephone number of the cabinet's ombudsman.\n3. A client shall not be unlawfully discriminated against in determining eligibility for a treatment program.\n4. During a program's intake procedures, a client shall sign a statement which specifies a client has the right to: (a) Give informed consent to receive a service.\n1. An adult shall sign an informed consent to receive a service.\n2. A juvenile, or the parent or guardian of a juvenile, shall sign an informed consent for a juvenile to receive a service in accordance with KRS 222.441; (b) Have input into treatment and case management plans and be informed of their content; (c) Receive individualized treatment; (d) File a grievance, recommendation or opinion regarding the services a client receives; (e) Give informed written consent regarding participation in a research study with the exception of a juvenile whose parent or guardian shall give informed written consent; (f) Confidentiality according to the following: 1. A federally-assisted AODE in accordance with 908 KAR 1:320; or\n2. A nonfederally-assisted AODE in accordance with KRS 222.271(1); (g) Request a written statement of the charge for a service and be informed of the policy for the assessment and payment of fees; (h) Be informed of the rules of client conduct, including the consequences for the use of alcohol and other drugs or other infractions that may result in disciplinary action or discharge; (i) Be treated with consideration, respect, and personal dignity; (j) Review client record in accordance with AODE policy; and (k) Receive one (1) free copy of client record in accordance with KRS 422.317.\n5. A program providing twenty-four (24) hour care shall also specify on the client rights statement that a client has the right to:\n(a) Vote in a political election; (b) Reasonable accommodations to afford privacy in bathing and toileting; and (c) Privileges in accordance with KRS 222.271(2).\n6. If the client is restricted from exercising a client right because it is contraindicated by the client's physical or mental condition, there shall be documentation in the client record of the reason for the restriction and of the explanation given to the client.",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Offered Services",
+      "loc": "All",
+      "BHSO": "1. A behavioral health services organization licensed under this administrative regulation shall obtain separate licensure as an alcohol and other drug abuse treat-ment program pursuant to 908 KAR 1:370 if the organization provides any of the following out-patient services for the treatment of individuals with a substance use disorder or co-occurring disorder in which substance use disorder is the primary diagnosis:\n(a) Screening;\n(b) Assessment;\n(c) Crisis intervention;\n(d) Mobile crisis services;\n(e) Day treatment;\n(f) Peer support;\n(g) Intensive outpatient program services;\n(h) Individual outpatient therapy;\n(i) Group outpatient therapy;\n(j) Family outpatient therapy;\n(k) Collateral outpatient therapy;\n(l) Screening, brief intervention and referral to treatment; or\n(m) Targeted case management.",
+      "AODE": "",
+      "Medicaid": "Covered Services. (1) Except as specified in the requirements stated for a given service, the services covered may be provided for a:\n(a) Mental health disorder;\n(b) Substance use disorder; or\n(c) Co-occurring mental health and substance use disorders.\n(2) The following services shall be covered under this administrative regulation in accord-ance with the corresponding following requirements:(a) A screening, crisis intervention, or intensive outpatient program service; (b) An assessment; (c) Psychological testing; (d) Day treatment, mobile crisis services, or residential services for substance use disorders;  (e) Peer support provided by a peer support specialist; (f) Individual outpatient therapy, group outpatient therapy, or collateral outpatient therapy; (g) Family outpatient therapy; (h) Service planning; (i) A screening, brief intervention, and referral to treatment for a substance use disorder; (j) Assertive community treatment; (k) Comprehensive community support services; (l) Therapeutic rehabilitation program services",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Screenings",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "A screening shall:\n1. Be the determination of the likelihood that an individual has a mental health disorder, substance use disorder, or co-occurring disorders;\n2. Not establish the presence or specific type of disorder; and\n3. Establish the need for an in-depth assessment.\n4. Documentation of a screening shall include:\n(a) Information relative to the individual\u2019s stated request for services; and (b) Other stated personal or health concerns if other concerns are stated.\n5. Immediately following a screening of a recipient, the practitioner shall perform a disposition related to: (a) A provisional diagnosis; (b) A referral for further consultation and disposition, if applicable; or (c)1. If applicable, termination of services and referral to an outside source for further ser-vices; or if applicable, termination of services without a referral to further services.",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Assessments",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "An assessment shall:\n1. Include gathering information and engaging in a process with the individual that enables the practitioner to:\na. Establish the presence or absence of a mental health disorder, substance use disorder, or co-occurring disorders;\nb. Determine the individual\u2019s readiness for change;\nc. Identify the individual\u2019s strengths or problem areas that may affect the treatment and re-covery processes; and\nd. Engage the individual in developing an appropriate treatment relationship;\n2. Establish or rule out the existence of a clinical disorder or service need;\n3. Include working with the individual to develop a plan of care; and\n4. Not include psychological or psychiatric evaluations or assessments.",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Assessments",
+      "loc": "Resi. Trans",
+      "BHSO": "",
+      "AODE": "An assessment shall be completed on each client and include:\n1. A psychosocial which shall include:\na. Presenting problem;\nb. History and treatment of alcohol and other drug abuse;\nc. Current living arrangement;\nd. Family relationships;\ne. Legal, employment, military, educational, and vocational history;\nf. Peer group relationships;\ng. Religious background and practices;\nh. History and treatment of mental retardation, a developmental disability or a mental health problem including emotional, physical and sexual abuse;\ni. Ethnic and cultural background;\nj. Leisure and recreational activities;\nLegislative Research Commission PDF Version Page: 18\nk. Client strengths and limitations; and\nl. An evaluation of the client\u2019s alcohol and other drug abuse or dependency;\n2. A mental status screening; and\n3. A summary of a client\u2019s needs based on an analysis of all information from the client\u2019s as-sessment and which includes a recommended course of treatment.\n4.  A physical health status questionnaire, which has been developed in consultation with a physician, or a copy of the record of a physical health examination, shall be completed for each client and include at least: (a) History of medical problems; (b) Client\u2019s self-report on current status of pregnancy, tuberculosis, hepatitis and human immu-nodeficiency virus; (c) Use of prescription and over-the-counter medication; (d) Allergies; and (e) Identification of a medical condition that may affect a client\u2019s participation in treatment.",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Assessments",
+      "loc": "Resi",
+      "BHSO": "",
+      "AODE": "An assessment shall be completed on each client and include:\n1.  A psychosocial which shall include:\na. Presenting problem;\nb. History and treatment of alcohol and other drug abuse;\nc. Current living arrangement;\nd. Family relationships;\ne. Legal, employment, military, educational and vocational history;\nf. Peer group relationships;\ng. Religious background and practices;\nh. History and treatment of behavioral health problem, developmental disability, or intellectual disability including emotional, physical and sexual abuse;\ni. Ethnic and cultural background;\nj. Leisure and recreational activities;\nk. Client strengths and limitations; and\nl. An evaluation of the client\u2019s alcohol and other drug abuse or dependency;\n2. A mental status screening;\n3. Completion of a physical health status questionnaire, which has been developed in consulta-tion with a physician or a copy of the record of a physical health examination, which includes at least:\na. History of medical problems;\nb. Client\u2019s self-report on current status of pregnancy, tuberculosis, hepatitis and human immu-nodeficiency virus;\nc. Use of prescription and over-the-counter medication;\nd. Allergies; and\ne. Identification of a medical condition that may affect the client\u2019s participation in treatment; and\n4. A summary of the client's needs based on an analysis of all information from the client\u2019s as-sessment and which includes a recommended course of treatment.",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Assessments",
+      "loc": "OP",
+      "BHSO": "",
+      "AODE": "An assessment shall be completed on each client and include:\n(a) A psychosocial which shall include:\n1. Presenting problem; 2. History and treatment of alcohol and other drug abuse; 3. Current living arrangement; 4. Family relationships; 5. Legal, employment, military, educational and vocational history; 6. Peer group relationships; 7. Religious background and practices; 8. History and treatment of behavioral health problem, developmental disability, or a mental health problem or a mental health problem including emotional, physical and sexual abuse; 9. Ethnic and cultural background;\n10. Leisure and recreational activities; 11. Client strengths and limitations; and\n12. An evaluation of the client\u2019s alcohol and other drug abuse or dependency;\n(b) A mental status screening;\n(c) Completion of a physical health status questionnaire, which has been developed in consultation with a physician or a copy of the record of a physical health examination which includes at least: 1. History of medical problems; 2. Client\u2019s self-report on current status of pregnancy, tuberculosis, hepatitis and human immu-nodeficiency virus; 3. Use of prescription and over-the-counter medication; 4. Allergies; and\n5. Identification of a medical condition that may affect a client\u2019s participation in treatment; and\n(d) A summary of a client's needs based on an analysis of all information from the client\u2019s assessment and which includes a recommended course of treatment.",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Service Planning",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "Service planning shall:\na. Involve assisting a recipient in creating an individualized plan for services needed for maximum reduction of the effects of a mental health disorder;\nb. Involve restoring a recipient's functional level to the recipient's best possible functional level; and\nc. Be performed using a person-centered planning process.\n2. A service plan:\na. Shall be directed by the recipient;\nb. Shall include practitioners of the recipient\u2019s choosing; and\nLegislative Research Commission PDF Version Page: 10\nc. May include:\n(i) A mental health advance directive being filed with a local hospital;\n(ii) A crisis plan; or\n(iii) A relapse prevention strategy or plan.",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Assertive Community Treatment",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "Assertive community treatment shall:\na. Be an evidence-based psychiatric rehabilitation practice which provides a comprehensive approach to service delivery for individuals with a serious mental illness; and\nb. Include:\n(i) Assessment;\n(ii) Treatment planning;\n(iii) Case management;\n(iv) Psychiatric services;\n(v) Medication prescribing and monitoring;\n(vi) Individual outpatient therapy;\n(vii) Family outpatient therapy;\n(viii) Group outpatient therapy;\n(ix) Mobile crisis services;\n(x) Crisis intervention;\n(xi) Mental health consultation; or\n(xii) Family support and basic living skills.\n2.a. Mental health consultation shall involve brief, collateral interactions with other treating professionals who may have information for the purpose of treatment planning and service de-\nLegislative Research Commission PDF Version Page: 12\nlivery.\nb. Family support shall involve the assertive community treatment team\u2019s working with the recipient\u2019s natural support systems to improve family relations in order to:\n(i) Reduce conflict; and\n(ii) Increase the recipient\u2019s autonomy and independent functioning.\nc. Basic living skills shall be rehabilitative services focused on teaching activities of daily liv-ing necessary to maintain independent functioning and community living.\n3. To provide assertive community treatment services, a behavioral health services organi-zation shall:\na. Employ at least one (1) team of multidisciplinary professionals:\n(i) Led by an approved behavioral health services provider; and\n(ii) Comprised of at least four (4) full-time equivalents including a prescriber, a nurse, an ap-proved behavioral health services provider, a case manager, or a co-occurring disorder spe-cialist;\nb. Have adequate staffing to ensure that no team\u2019s caseload size exceeds ten (10) partici-pants per team member (for example, if the team includes five (5) individuals, the caseload for the team shall not exceed fifty (50) recipients);\nc. Have the capacity to:\n(i) Employ staff authorized to provide assertive community treatment services in accordance with this paragraph;\n(ii) Coordinate the provision of services among team members;\n(iii) Provide the full range of assertive community treatment services as stated in this para-graph; and\n(iv) Document and maintain individual case records; and\nd. Demonstrate experience in serving individuals with persistent and serious mental illness who have difficulty living independently in the community.",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Crisis Intervention",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "Crisis intervention:\n1. Shall be a therapeutic intervention for the purpose of immediately reducing or eliminating the risk of physical or emotional harm to:\na. The recipient; or\nb. Another individual;\n2. Shall consist of clinical intervention and support services necessary to provide integrated crisis response, crisis stabilization interventions, or crisis prevention activities for individuals;\n3. Shall be provided:\na. On-site at the behavioral health services organization\u2019s office;\nb. As an immediate relief to the presenting problem or threat; and\nc. In a face-to-face, one (1) on one (1) encounter between the provider and the recipient;\n4. Shall be followed by a referral to non-crisis services if applicable; and\n5. May include:\na. Further service prevention planning including:\n(i) Lethal means reduction for suicide risk; or\n(ii) Substance use disorder relapse prevention; or\nb. Verbal de-escalation, risk assessment, or cognitive therapy.",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Psychological Testing",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "Psychological testing shall include:\n1. A psychodiagnostic assessment of personality, psychopathology, emotionality, or intellec-tual disabilities; and\n2. Interpretation and a written report of testing results",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Mobile Crisis Services",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "Mobile crisis services shall:\n1. Be available twenty-four (24) hours a day, seven (7) days a week, every day of the year;\n2. Be provided for a duration of less than twenty-four (24) hours;\n3. Not be an overnight service;\n4. Be a multi-disciplinary team based intervention in a home or community setting that en-sures access to mental health and substance use disorder services and supports to:\n(i) Reduce symptoms or harm; or\n(ii) Safely transition an individual in an acute crisis to the appropriate least restrictive level of care;\n5. Involve all services and supports necessary to provide:\na. Integrated crisis prevention;\nb. Assessment and disposition;\nc. Intervention;\nd. Continuity of care recommendations; and\ne. Follow-up services; and\n6. Be provided face-to-face in a home or community setting.",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Day Treatment",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "Day treatment shall be a non-residential, intensive treatment program for a child under the age of twenty-one  years who has:\na. A mental health disorder, substance use disorder, or co-occurring mental health and sub-stance use disorders; and\nb. A high risk of out-of-home placement due to a behavioral health issue.\n2. Day treatment shall:\na. Consist of an organized, behavioral health program of treatment and rehabilitative services;\nb. Include: (i) Individual outpatient therapy, family outpatient therapy, or group outpatient therapy; (ii) Behavior management and social skills training; (iii) Independent living skills that correlate to the age and developmental stage of the recipi-ent; or (iv) Services designed to explore and link with community resources before discharge and to assist the recipient and family with transition to community services after discharge; and\nc. Be provided:\n(i) In collaboration with the education services of the local education authority including those provided through 20 U.S.C. 1400 et seq. (Individuals with Disabilities Education Act) or 29 U.S.C. 701 et seq. (Section 504 of the Rehabilitation Act); (ii) On school days and during scheduled school breaks; (iii) In coordination with the recipient\u2019s individualized educational plan or Section 504 plan if the recipient has an individualized educational plan or Section 504 plan; (iv) Under the supervision of a licensed or certified behavioral health practitioner or a behav-ioral health practitioner working under clinical supervision; and (v) With a linkage agreement with the local education authority that specifies the responsibil-ities of the local education authority and the day treatment provider.\n3. To provide day treatment services, a behavioral health services organization shall have: (a) The capacity to employ staff authorized to provide day treatment services in accordance with this section and to coordinate the provision of services among team members; and (b) Knowledge of substance use disorders.\n4. Day treatment shall not include a therapeutic clinical service that is included in a child\u2019s individualized education plan or Section 504 plan.",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Peer Support",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "Peer support services shall:\nLegislative Research Commission PDF Version Page: 7\na. Be emotional support that is provided by:\n(i) An individual who has been trained and certified in accordance with 908 KAR 2:220 and who is experiencing or has experienced a mental health disorder, substance use disorder, or co-occurring mental health and substance use disorders to a recipient by sharing a similar mental health disorder, substance use disorder, or co-occurring mental health and substance use disorders in order to bring about a desired social or personal change;\n(ii) A parent, who has been trained and certified in accordance with 908 KAR 2:230, of a child having or who has had a mental health, substance use, or co-occurring mental health and substance use disorders to a parent or family member of a child sharing a similar mental health, substance use, or co-occurring mental health and substance use disorders in order to bring about a desired social or personal change; or\n(iii) A family member, who has been trained and certified in accordance with 908 KAR 2:230, of a child having or who has had a mental health, substance use, or co-occurring men-tal health and substance use disorders to a parent or family member of a child sharing a simi-lar mental health, substance use, or co-occurring mental health and substance use disorders in order to bring about a desired social or personal change;\nb. Be an evidence-based practice;\nc. Be structured and scheduled non-clinical therapeutic activities with an individual recipient or a group of recipients;\nd. Promote socialization, recovery, self-advocacy, preservation, and enhancement of com-munity living skills for the recipient;\ne. Be coordinated within the context of a comprehensive, individualized plan of care devel-oped through a person-centered planning process;\nf. Be identified in each recipient\u2019s plan of care; and\ng. Be designed to directly contribute to the recipient\u2019s individualized goals as specified in the recipient\u2019s plan of care.\n2. To provide peer support services, a behavioral health services organization shall:\na. Have demonstrated:\n(i) The capacity to provide peer support services for the behavioral health population being served including the age range of the population being served; and\n(ii) Experience in serving individuals with behavioral health disorders;\nb. Employ peer support specialists who are qualified to provide peer support services in ac-cordance with 908 KAR 2:220, 908 KAR 2:230, or 908 KAR 2:240;\nc. Use an approved behavioral health services provider or certified alcohol and drug coun-selor to supervise peer support specialists;\nd. Have the capacity to coordinate the provision of services among team members; and\ne. Have the capacity to provide on-going continuing education and technical assistance to peer support specialists.",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "IOP",
+      "loc": "IOP",
+      "BHSO": "",
+      "AODE": "1. A client shall receive a variety of structured comprehensive individual and group therapeutic activities for a minimum of six (6) hours over a period of two (2) or more days weekly.\n2. An AODE shall have a policy requiring that a schedule of all planned therapeutic activities shall be given to each client or conspicuously posted in the facility.",
+      "Medicaid": "Intensive outpatient program services shall:\na. Be an alternative to or transition from inpatient hospitalization or partial hospitalization for a mental health disorder, substance use disorder, or co-occurring disorders;\nb. Offer a multi-modal, multi-disciplinary structured outpatient treatment program that is sig-nificantly more intensive than individual outpatient therapy, group outpatient therapy, or family outpatient therapy;\nc. Be provided at least three (3) hours per day at least three (3) days per week; and\nd. Include:\n(i) Individual outpatient therapy, group outpatient therapy, or family outpatient therapy un-less contraindicated;\n(ii) Crisis intervention; or\nLegislative Research Commission PDF Version Page: 8\n(iii) Psycho-education.\n2. During psycho-education, the recipient or recipient\u2019s family member shall be:\na. Provided with knowledge regarding the recipient\u2019s diagnosis, the causes of the condition, and the reasons why a particular treatment might be effective for reducing symptoms; and\nb. Taught how to cope with the recipient\u2019s diagnosis or condition in a successful manner.\n3. An intensive outpatient program services treatment plan shall:\na. Be individualized; and\nb. Focus on stabilization and transition to a lesser level of care.\n4. To provide intensive outpatient program services, a behavioral health services organiza-tion shall have:\na. Access to a board-certified or board-eligible psychiatrist for consultation;\nb. Access to a psychiatrist, physician, or advanced practiced registered nurse for medication prescribing and monitoring;\nc. Adequate staffing to ensure a minimum recipient-to-staff ratio of ten (10) recipients to one (1) staff person;\nd. The capacity to provide services utilizing a recognized intervention protocol based on na-tionally accepted treatment principles; and\ne. The capacity to employ staff authorized to provide intensive outpatient program services in accordance with this section and to coordinate the provision of services among team mem-bers.",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Individual Outpatient",
+      "loc": "OP",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "Individual outpatient therapy shall:\n1. Be provided to promote the:\na. Health and wellbeing of the individual; and\nb. Recovery from a substance use disorder, mental health disorder, or co-occurring mental health and substance use disorders;\n2. Consist of:\na. A face-to-face, one (1) on one (1) encounter between the provider and recipient; and\nb. A behavioral health therapeutic intervention provided in accordance with the recipient\u2019s identified plan of care;\n3. Be aimed at:\na. Reducing adverse symptoms;\nb. Reducing or eliminating the presenting problem of the recipient; and\nc. Improving functioning; and\n4. Not exceed three (3) hours per day unless additional time is medically necessary.",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Group Outpatient",
+      "loc": "OP",
+      "BHSO": "",
+      "AODE": "Alcohol and other drug abuse counseling, including a focus on relapse prevention, shall be provided to each client. If provided in a group there shall be a maximum of fifteen (15) clients per clinician.",
+      "Medicaid": "Group outpatient therapy shall:\na. Be a behavioral health therapeutic intervention provided in accordance with a recipient\u2019s identified plan of care;\nb. Be provided to promote the:\n(i) Health and wellbeing of the individual; and\n(ii) Recovery from a substance use disorder, mental health disorder, or co-occurring mental health and substance use disorders;\nc. Consist of a face-to-face behavioral health therapeutic intervention provided in accord-ance with the recipient\u2019s identified plan of care;\nd. Be provided to a recipient in a group setting:\n(i) Of nonrelated individuals except for multi-family group therapy; and\n(ii) Not to exceed twelve (12) individuals in size;\ne. Focus on the psychological needs of the recipients as evidenced in each recipient\u2019s plan of care;\nf. Center on goals including building and maintaining healthy relationships, personal goals\nLegislative Research Commission PDF Version Page: 9\nsetting, and the exercise of personal judgment;\ng. Not include physical exercise, a recreational activity, an educational activity, or a social activity; and\nh. Not exceed three (3) hours per day per recipient unless additional time is medically nec-essary.\n2. The group shall have a:\na. Deliberate focus; and\nb. Defined course of treatment.\n3. The subject of group outpatient therapy shall relate to each recipient participating in the group.\n4. The provider shall keep individual notes regarding each recipient within the group and within each recipient\u2019s health record",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Family Outpatient",
+      "loc": "OP",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "Family outpatient therapy shall consist of a face-to-face behavioral health therapeutic intervention provided:\na. Through scheduled therapeutic visits between the therapist and the recipient and at least one (1) member of the recipient\u2019s family; and\nb. To address issues interfering with the relational functioning of the family and to improve interpersonal relationships within the recipient\u2019s home environment.\n2. A family outpatient therapy session shall be billed as one (1) service regardless of the number of individuals (including multiple members from one (1) family) who participate in the session.\n3. Family outpatient therapy shall:\na. Be provided to promote the:\n(i) Health and wellbeing of the individual; or\n(ii) Recovery from a substance use disorder, mental health disorder, or co-occurring mental health and substance use disorders; and\nb. Not exceed three (3) hours per day per individual unless additional time is medically nec-essary.",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Collateral Outpatient",
+      "loc": "OP",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "Collateral outpatient therapy shall:\na. Consist of a face-to-face behavioral health consultation:\n(i) With a parent or caregiver of a recipient, household member of a recipient, legal repre-sentative of a recipient, school personnel, treating professional, or other person with custodial control or supervision of the recipient; and\n(ii) That is provided in accordance with the recipient\u2019s plan of care;\nb. Not be reimbursable if the therapy is for a recipient who is at least twenty-one (21) years of age; and\nc. Not exceed three (3) hours per day per individual unless additional time is medically nec-essary.\n2. Consent to discuss a recipient\u2019s treatment with any person other than a parent or legal guardian shall be signed and filed in the recipient\u2019s health record.",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "SBIRT",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "Screening, brief intervention, and referral to treatment for a substance use disorder shall:\n1. Be an evidence-based early intervention approach for an individual with non-dependent substance use to provide an effective strategy for intervention prior to the need for more ex-tensive or specialized treatment; and\n2. Consist of:\na. Using a standardized screening tool to assess an individual for risky substance use be-havior;\nb. Engaging a recipient, who demonstrates risky substance use behavior, in a short conver-sation and providing feedback and advice; and\nc. Referring a recipient to additional mental health disorder, substance use disorder, or co-occurring disorders services if the recipient is determined to need additional services to ad-dress substance use.",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Residential",
+      "loc": "Resi.",
+      "BHSO": "1. If a behavioral health ser-vices organization licensed under this administrative regulation provides residential services to clients with a substance use disorder, the organization shall obtain separate licensure as an alcohol and other drug abuse treatment program pursuant to 908 KAR 1:370.\n2. In addition to meeting the requirements of 908 KAR 1:370 for residential treatment pro-grams, a behavioral health services organization that provides residential services for sub-stance use disorders shall: (a) Provide intensive treatment and skills building in a structured and supportive environ-ment; (b) Assist the client in abstaining from alcohol or substance use and in entering alcohol or drug addiction recovery; (c) Provide services in a twenty-four (24) hour a day, live-in facility that offers a planned and structured regimen of care aimed at treating individuals with addiction or co-occurring mental health and substance use disorders; (d) Assist the client in making necessary changes to enable the individual to live drug- or al-cohol-free; (e) Provide services under the medical direction of a physician; and (f) Provide continuous nursing services in which a registered nurse shall be:\n1. On-site during traditional first shift hours, Monday through Friday;\n2. Continuously available by phone after hours; and\n3. On-site as needed in follow-up to telephone consultation after hours.",
+      "AODE": "1.  Orientation to self-help groups specific to addiction recovery shall be provided to each client.\n2.  A client shall be provided an opportunity to meet with a self-help group and other outside service providers.\n3.  An AODE shall have a policy requiring that if a client performs work in the program, other than a personal care or housekeeping task, which is part of a therapeutic activity, the work shall be voluntary and consistent with the treatment plan.\n4. A client shall have access to films, printed materials, and audio and video tapes related to the treatment of alcohol and other drug abuse.\n5.  Information or education about alcohol and other drug dependency and recovery shall be made available to a client\u2019s family or significant other. If a service is requested, it shall be provided either directly or through referral to a qualified outside provider.\n6. A client shall receive forty  hours of structured activities weekly including alcohol and other drug abuse education; individual, group or family counseling; self-help group meetings and recreation. Ten  of the forty  hours of structured weekly activities shall be counseling ser-vices.\n7. A client shall be provided an opportunity to meet with a self-help group and other outside service providers.\n8.  If a client performs work in a program, other than a personal care or housekeeping task, which is part of a therapeutic activity, the work shall be voluntary and consistent with the treatment plan.",
+      "Medicaid": "Residential services for substance use disorders shall:\na. Be provided in a twenty-four (24) hour per day unit that is a live-in facility that offers a planned and structured regimen of care aimed to treat individuals with addiction or co-occurring mental health and substance use disorders;\nb. Be short or long-term to provide intensive treatment and skills building in a structured and supportive environment;\nc. Assist an individual in abstaining from alcohol or substance use and in entering alcohol or drug addiction recovery;\nd. Assist a recipient in making necessary changes in the recipient\u2019s life to enable the recipi-ent to live drug- or alcohol-free;\ne. Be provided under the medical direction of a physician;\nf. Provide continuous nursing services in which a registered nurse shall be:\n(i) On-site during traditional first shift hours, Monday through Friday;\n(ii) Continuously available by phone after hours; and\n(iii) On-site as needed in follow-up to telephone consultation after hours;\ng. Be based on individual need and may include:\n(i) A screening;\n(ii) An assessment;\n(iii) Service planning;\n(iv) Individual outpatient therapy;\n(v) Group outpatient therapy;\n(vi) Family outpatient therapy; or\n(vii) Peer support; and\nh. Be provided in accordance with 908 KAR 1:370.\n2.a. Except as established in clause b of this subparagraph, the physical structure in which residential services for substance use disorders is provided shall:\n(i) Have between nine (9) and sixteen (16) beds; and\n(ii) Not be part of multiple units comprising one (1) facility with more than sixteen (16) beds in aggregate.\nb. If every recipient receiving services in the physical structure is under the age of twenty-one (21) years or over the age of sixty-five (65) years, the limit of sixteen (16) beds established in clause a of this subparagraph shall not apply.\n3. A short-term length-of-stay for residential services for substance use disorders:\na. Shall be less than thirty (30) days in duration;\nb. Shall include planned clinical program activities constituting at least fifteen (15) hours per week of structured professionally-directed treatment activities to:\n(i) Stabilize a recipient\u2019s substance use disorder; and\n(ii) Help the recipient develop and apply recovery skills; and\nc. May include the services listed in subparagraph 1.g. of this paragraph.\n4. A long-term length-of-stay for residential services for substance use disorders:\na. Shall be between thirty (30) days and ninety (90) days in duration;\nb. Shall include planned clinical program activities constituting at least forty (40) hours per week of structured professionally-directed treatment activities to:\n(i) Stabilize a recipient\u2019s substance use disorder; and\n(ii) Help the recipient develop and apply recovery skills; and\nLegislative Research Commission PDF Version Page: 11\nc. May include the services listed in subparagraph 1.g. of this paragraph.\n5. Residential services for substance use disorders shall not include:\na. Room and board;\nb. Educational services;\nc. Vocational services;\nd. Job training services;\ne. Habilitation services;\nf. Services to an inmate in a public institution pursuant to 42 C.F.R. 435.1010;\ng. Services to an individual residing in an institution for mental diseases pursuant to 42 C.F.R. 435.1010;\nh. Recreational activities;\ni. Social activities; or\nj. Services required to be covered elsewhere in the Medicaid state plan.\n6. To provide residential services for substance use disorders, a behavioral health services organization shall:\na. Have the capacity to employ staff authorized to provide services in accordance with this section and to coordinate the provision of services among team members; and\nb. Be licensed as a non-medical and non-hospital based alcohol and other drug abuse treatment program in accordance with 908 KAR 1:370.",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    }
+  ],
+  "Administration": [
+    {
+      "element": "Licensure and Fees",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Service Philosophy",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Accreditation",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Policies and Procedures",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "QA/Utilization Review",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Electronic Signature",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Client Grievance Policy",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "After Hour Services",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "After Hour Services",
+      "loc": "OP",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Medication Policy",
+      "loc": "Resi. Trans",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Medication Policy",
+      "loc": "Resi",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Food Service Policy",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Food Service Policy",
+      "loc": "Resi. Trans",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Food Service Policy",
+      "loc": "Resi",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Food Service Policy",
+      "loc": "IOP",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Family Resi Req.",
+      "loc": "Resi",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Housing Services",
+      "loc": "Resi",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Background Checks",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Personnel Policies",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Personnel Policies",
+      "loc": "Resi. Trans",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Personnel Policies",
+      "loc": "Resi",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Personnel Policies",
+      "loc": "OP",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Personnel Record/File",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Personnel Roles",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Targeted Case Manager",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Executive Director",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Program Manager",
+      "loc": "Resi.",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Clinical Services Supervisor",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Clinician",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Case Manager",
+      "loc": "Resi.",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Peer Support Specialist",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Physician",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Resi Counselors",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Psychiatrist",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    },
+    {
+      "element": "Psychologist",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    }
+  ],
+  "Facilities": [
+    {
+      "element": "Physical Environment",
+      "loc": "All",
+      "BHSO": "",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    }
+  ]
+}

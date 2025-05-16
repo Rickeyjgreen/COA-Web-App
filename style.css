@@ -1,0 +1,10 @@
+
+body { font-family: sans-serif; margin: 0; padding: 0; }
+header { padding: 1rem; background: #004080; color: white; }
+h1 { margin: 0 0 1rem 0; }
+nav button { margin-right: 1rem; }
+input[type=text] { width: 100%; padding: 0.5rem; margin-top: 1rem; }
+#search-results .result { background: #f0f0f0; margin-top: 0.5rem; padding: 0.5rem; }
+main { padding: 2rem; }
+.entry { margin-bottom: 2rem; border-bottom: 1px solid #ccc; padding-bottom: 1rem; }
+mark { background: yellow; font-weight: bold; }
