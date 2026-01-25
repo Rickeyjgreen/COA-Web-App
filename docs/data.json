@@ -1,0 +1,16 @@
+{
+  "Service Related": [
+    {
+      "element": "Intake",
+      "loc": "All",
+      "BHSO": "Example content for testing.",
+      "AODE": "",
+      "Medicaid": "",
+      "COA_HCSL": "",
+      "COA_MHSU": "",
+      "COA_RTX": ""
+    }
+  ],
+  "Administration": [],
+  "Facilities": []
+}
