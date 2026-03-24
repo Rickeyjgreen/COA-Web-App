@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>VOA Walkthrough Navigator</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page">
+      <header class="hero">
+        <div>
+          <p class="eyebrow">GitHub -> Vercel build slice</p>
+          <h1>VOA Site Walkthrough Navigator</h1>
+          <p class="subtitle">
+            Search the walkthrough by question, tag, or operational issue and jump to what was established,
+            what it means, and what still needs clarification.
+          </p>
+        </div>
+        <div class="stats" id="stats"></div>
+      </header>
+
+      <section class="controls">
+        <label class="search-wrap">
+          <span>Search</span>
+          <input id="searchInput" type="text" placeholder="Try: Hope Village, visitor log, bathroom privacy, shift logs, use of force" />
+        </label>
+        <label>
+          <span>Status</span>
+          <select id="statusFilter">
+            <option value="all">All statuses</option>
+            <option value="established">Established</option>
+            <option value="mostly-established">Mostly established</option>
+            <option value="partially-established">Partially established</option>
+            <option value="unresolved">Unresolved</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="quick-prompts" id="quickPrompts"></section>
+
+      <main class="workspace">
+        <aside class="panel panel-list">
+          <div class="panel-header">
+            <h2>Matching sections</h2>
+          </div>
+          <div id="topicList" class="topic-list"></div>
+        </aside>
+
+        <section class="panel panel-detail">
+          <div id="topicDetail"></div>
+        </section>
+      </main>
+
+      <section class="bottom-grid">
+        <section class="panel">
+          <div class="panel-header">
+            <h2>Still fuzzy before go-live</h2>
+          </div>
+          <div id="openQuestions" class="stack"></div>
+        </section>
+
+        <section class="panel">
+          <div class="panel-header">
+            <h2>Immediate next documents</h2>
+          </div>
+          <div id="nextDocs" class="stack"></div>
+        </section>
+      </section>
+    </div>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
