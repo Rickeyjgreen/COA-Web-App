@@ -2,22 +2,210 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Regulation Standards Viewer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="A mobile-first fundraising campaign hub to support Daniel Mattingly through direct giving, transparent updates, sharing tools, and a future merch storefront." />
+  <meta property="og:title" content="Give the Kid the Mic | Stand With Daniel" />
+  <meta property="og:description" content="A Louisville student spoke from the heart. Now the community can stand with him through direct support, sharing, and transparent campaign updates." />
+  <meta property="og:type" content="website" />
+  <title>Give the Kid the Mic | Stand With Daniel</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&family=Permanent+Marker&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <header>
-    <h1>Regulation Standards Viewer</h1>
-    <nav>
-      <button onclick="scrollToSection('Service Related')">Service Related</button>
-      <button onclick="scrollToSection('Administration')">Administration</button>
-      <button onclick="scrollToSection('Facilities')">Facilities</button>
+  <a class="skip-link" href="#donate">Skip to donation options</a>
+
+  <header class="site-header" id="top">
+    <div class="brand-lockup" aria-label="Give the Kid the Mic campaign brand">
+      <div class="brand-icon" aria-hidden="true">🎙</div>
+      <div>
+        <p class="eyebrow">Louisville support campaign</p>
+        <strong>Give the Kid the Mic</strong>
+      </div>
+    </div>
+    <nav class="desktop-nav" aria-label="Primary navigation">
+      <a href="#story">Story</a>
+      <a href="#support">Support</a>
+      <a href="#shop">Shop</a>
+      <a href="#share">Share</a>
+      <a href="#contact">Contact</a>
     </nav>
-    <!-- Added minimum character hint to search placeholder -->
-    <input id="search" type="text" placeholder="Search (min. 2 chars)" oninput="performSearch()" />
-    <div id="search-results"></div>
+    <a class="nav-cta" href="#donate">Donate</a>
   </header>
-  <main id="content"></main>
+
+  <main>
+    <section class="hero section-pad">
+      <div class="hero-content">
+        <p class="pill">Family-approved campaign hub • placeholders marked clearly</p>
+        <h1>A Louisville student stood at the mic and told the truth.</h1>
+        <p class="hero-copy">Daniel Mattingly's story has reached people across the country because it is bigger than one speech. It is about courage, grief, dignity, and the basic human need to be seen.</p>
+        <div class="cta-row">
+          <a class="btn btn-primary" id="donate" href="https://www.gofundme.com/f/support-daniel-mattingly-after-loss" target="_blank" rel="noopener">Donate on GoFundMe</a>
+          <a class="btn btn-secondary" href="#share">Share his story</a>
+        </div>
+        <p class="microcopy">Direct donations route to the existing fundraiser. Merch is a placeholder until final fulfillment, pricing, and donation receipts are confirmed.</p>
+      </div>
+      <div class="hero-card" aria-label="Campaign visual placeholder">
+        <div class="portrait-placeholder">
+          <div class="portrait-hair"></div>
+          <div class="portrait-glasses"></div>
+          <div class="portrait-face"></div>
+          <div class="portrait-mic">🎙</div>
+        </div>
+        <div class="poster-text">
+          <span>Stand with</span>
+          <strong>Daniel</strong>
+          <em>Protect kids who tell the truth.</em>
+        </div>
+      </div>
+    </section>
+
+    <section class="stat-strip" aria-label="Campaign status placeholders">
+      <div>
+        <strong id="raisedTotal">$8,442</strong>
+        <span>reported raised at last research check</span>
+      </div>
+      <div>
+        <strong>$10,000</strong>
+        <span>reported fundraiser goal</span>
+      </div>
+      <div>
+        <strong>50%</strong>
+        <span>planned net merch profit donation</span>
+      </div>
+    </section>
+
+    <section class="section-pad split" id="story">
+      <div>
+        <p class="eyebrow">What happened</p>
+        <h2>One mic. One moment. A community response.</h2>
+      </div>
+      <div class="content-stack">
+        <p>Daniel Mattingly is an eighth-grade student from Louisville. He was selected to speak at graduation because of his student council involvement. His story gained attention after he went off script and spoke honestly about acceptance, grief, and the treatment he says students experienced.</p>
+        <p>He has also endured the loss of both parents. This site is built to direct support toward practical stability, basic needs, transportation, food, housing support, and family-approved updates.</p>
+        <div class="notice-card">
+          <strong>Campaign boundary</strong>
+          <p>This is not a harassment campaign. It is a support campaign. Do not contact, threaten, shame, or target students, staff, school personnel, or families.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-pad cards-section" id="support">
+      <div class="section-heading">
+        <p class="eyebrow">How support helps</p>
+        <h2>Direct support first. Transparent merch second.</h2>
+        <p>Every public-facing claim should be backed by the family, the fundraiser, or posted receipts.</p>
+      </div>
+      <div class="card-grid">
+        <article class="support-card">
+          <span>01</span>
+          <h3>Living stability</h3>
+          <p>Placeholder for family-approved language around food, housing, transportation, and immediate stability needs.</p>
+        </article>
+        <article class="support-card">
+          <span>02</span>
+          <h3>Grief support</h3>
+          <p>Placeholder for approved resources, counseling support, or practical care that protects Daniel's privacy.</p>
+        </article>
+        <article class="support-card">
+          <span>03</span>
+          <h3>Community advocacy</h3>
+          <p>Share the story without attacking individuals. Keep the focus on dignity, safety, and belonging for students.</p>
+        </article>
+        <article class="support-card">
+          <span>04</span>
+          <h3>Receipts and updates</h3>
+          <p>Placeholder for donation receipts, merch totals, transfer confirmations, and family-approved milestones.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section-pad shop-section" id="shop">
+      <div class="section-heading">
+        <p class="eyebrow">Storefront placeholder</p>
+        <h2>Drop-shipping merch concept</h2>
+        <p>Shop buttons are intentionally placeholders. Add Printful, Printify, Shopify, Fourthwall, or another fulfillment link after the donation agreement and net-profit math are finalized.</p>
+      </div>
+      <div class="product-grid" id="productGrid"></div>
+      <div class="profit-card">
+        <h3>Transparent store language</h3>
+        <p>50% of net profit from every item will be donated to Daniel's family fundraiser. Net profit means sale price minus production, platform, payment processing, and shipping costs. Donation receipts and totals will be posted publicly.</p>
+        <p class="placeholder-note">Replace this with fixed-dollar giving per item when production costs are finalized, for example: “At least $8 from every shirt goes to the fundraiser.”</p>
+      </div>
+    </section>
+
+    <section class="section-pad proof-section" id="sources">
+      <div class="section-heading">
+        <p class="eyebrow">Verified links</p>
+        <h2>Story links and source placeholders</h2>
+      </div>
+      <div class="source-list">
+        <a href="https://people.com/students-graduation-speech-sparks-online-debate-11982782" target="_blank" rel="noopener">People coverage</a>
+        <a href="https://www.advocate.com/news/people/kentucky-middle-school-graduation-speech" target="_blank" rel="noopener">The Advocate coverage</a>
+        <a href="https://www.gofundme.com/f/support-daniel-mattingly-after-loss" target="_blank" rel="noopener">GoFundMe fundraiser</a>
+        <a href="#contact">Placeholder: WAVE / local coverage link</a>
+        <a href="#contact">Placeholder: LGBTQ Nation / additional source link</a>
+      </div>
+    </section>
+
+    <section class="section-pad share-section" id="share">
+      <div class="section-heading">
+        <p class="eyebrow">Share kit</p>
+        <h2>Copy, paste, and mobilize support.</h2>
+        <p>Use broad adult audiences. Do not target minors. Do not target sensitive identity categories directly.</p>
+      </div>
+      <div class="share-grid">
+        <article class="share-card">
+          <h3>Short caption</h3>
+          <p id="captionShort">A Louisville student spoke from the heart. Now the community can stand with him. Donate directly, share responsibly, and help fund stability for Daniel.</p>
+          <button class="copy-btn" data-copy="captionShort">Copy caption</button>
+        </article>
+        <article class="share-card">
+          <h3>Local caption</h3>
+          <p id="captionLocal">Louisville shows up for its kids. This campaign supports Daniel Mattingly through direct giving, transparent updates, and responsible community advocacy.</p>
+          <button class="copy-btn" data-copy="captionLocal">Copy caption</button>
+        </article>
+        <article class="share-card">
+          <h3>Hashtags</h3>
+          <p id="hashtags">#StandWithDaniel #GiveTheKidTheMic #LouisvilleShowsUp #LetThemSpeak #SpeakFromTheHeart</p>
+          <button class="copy-btn" data-copy="hashtags">Copy hashtags</button>
+        </article>
+      </div>
+    </section>
+
+    <section class="section-pad transparency" id="transparency">
+      <div>
+        <p class="eyebrow">Transparency rules</p>
+        <h2>Keep the campaign clean.</h2>
+      </div>
+      <ul class="check-list">
+        <li>Direct donation CTA goes to the verified fundraiser.</li>
+        <li>Merch remains a placeholder until fulfillment and donation math are confirmed.</li>
+        <li>No unsupported accusations, school logos, staff names, or harassment language.</li>
+        <li>Post donation receipts and transfer totals publicly.</li>
+        <li>Use family-approved photos, updates, and copy only.</li>
+      </ul>
+    </section>
+
+    <section class="section-pad contact-section" id="contact">
+      <div class="contact-card">
+        <p class="eyebrow">Contact</p>
+        <h2>Media, partnerships, and approvals</h2>
+        <p>Replace the placeholder contact details below with the family-approved campaign contact, media contact, or store operator inbox.</p>
+        <div class="contact-actions">
+          <a class="btn btn-primary" href="mailto:campaign-contact@example.com?subject=Stand%20With%20Daniel%20Campaign">Email campaign contact</a>
+          <a class="btn btn-secondary" href="#top">Back to top</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Give the Kid the Mic • Stand With Daniel</p>
+    <p>Built as a mobile-first campaign placeholder. Replace all placeholders before public launch.</p>
+  </footer>
+
   <script src="viewer.js"></script>
 </body>
 </html>
